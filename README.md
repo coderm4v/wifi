@@ -6,7 +6,7 @@ Crack wps wifi
 * pkg install root-repo -y
 * pip install pycryptodome
 * pkg install git tsu python wpa-supplicant pixiewps iw openssl -y
-* git clone https://github.com/Thaomtam/thoitiet.git
+* git clone https://github.com/coderm4v/wifi.git
 * cd wifi
 * chmod +x hack.py
 * sudo python hack.py -i wlan0 -K
